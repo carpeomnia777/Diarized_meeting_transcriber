@@ -1,0 +1,5 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+git+https://github.com/openai/whisper.git
+git+https://github.com/m-bain/whisperx.git
+pydub
+git+https://github.com/pyannote/pyannote-audio.git
